@@ -7,6 +7,7 @@
 
 <!-- /BADGES -->
 
+### This project has moved to [WebQit/oohtml](https://github.com/webqit/oohtml).
 
 CHTML is a suite of new DOM features that brings native support for modern UI development paradigms: a component-based architecture, data binding, and reactivity. This lets us build elegant user interfaces using the web platform itself.
 
